@@ -1,5 +1,5 @@
 st=input()
 if(st.isnumeric()):
-  print("yes")
+  print("Yes")
 else:
   print("no")
