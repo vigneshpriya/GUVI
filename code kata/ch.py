@@ -1,5 +1,3 @@
-m=input().split()
-cou=0
-for s in m:
-  cou+=len(s)
-  print(cou)
+m=input()
+print(len(m)-m.count(' '))
+
