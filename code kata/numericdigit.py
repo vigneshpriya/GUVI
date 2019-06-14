@@ -1,3 +1,3 @@
-v=int(input())
-g=str(v)
-print(len(g))
+va=int(input())
+gi=str(va)
+print(len(gi))
