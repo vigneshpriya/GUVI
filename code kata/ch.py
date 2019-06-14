@@ -1,5 +1,5 @@
-st=input().split()
-co=0
-for i in st:
-  co+=len(i)
-  print(co)
+m=input().split()
+cou=0
+for s in m:
+  cou+=len(s)
+  print(cou)
