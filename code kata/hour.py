@@ -1,0 +1,5 @@
+ho1,m1=map(int,input().split())
+ho2,m2=map(int,input().split())
+ho3=abs(ho1-ho2)
+m3=abs(m1-m2)
+print(ho3,m3)
