@@ -1,6 +1,6 @@
-n,m=map(int,input().split())
-p=n-m
-if(p%2==0):
+nu,mi=map(int,input().split())
+dd=nu-mi
+if(dd%2==0):
   print("even")
 else:
   print("odd")
