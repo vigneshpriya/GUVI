@@ -1,0 +1,9 @@
+num,op,nu=input().split()
+num1=int(num)
+num2=int(nu)
+if(op=='/'):
+  a=num1//num2
+  print(a)
+elif(op=='%'):
+  b=num1%num2
+  print(b)
