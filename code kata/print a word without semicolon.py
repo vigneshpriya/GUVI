@@ -1,0 +1,2 @@
+woo=input()
+print(woo)
