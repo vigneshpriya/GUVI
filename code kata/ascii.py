@@ -1,2 +1,2 @@
-st=input()
-print(ord(st))
+sti=input()
+print(ord(sti))
